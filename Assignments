@@ -1,0 +1,58 @@
+Date: 08 Nov 2023
+1.Wireframe: A wireframe is a basic visual representation or a skeletal framework of a website or an application. It is essentially a low-fidelity, simplified outline that helps designers and developers map out the structure and layout of a digital product. Wireframes typically do not include detailed design elements such as colors, images, or fonts. Instead, they focus on outlining the placement of various elements like navigation, content sections, buttons, and forms. 
+Wireframes serve as a blueprint for the overall layout and functionality of a digital product, allowing designers and stakeholders to visualize the structure and flow of the interface. They help in identifying and resolving potential design and usability issues early in the design process, before investing time and resources in high-fidelity design or development. 
+2.Markup: Markup, on the other hand, refers to the process of adding annotations, notes, or instructions to a document or a piece of code. In the context of web development, markup commonly refers to the use of languages such as HTML (Hypertext Markup Language) to create the structure and content of web pages. HTML provides a set of markup tags that define the elements and their layout within a web page, such as headings, paragraphs, images, links, and more.Markup languages like HTML provide a standardized way to structure content on the web, enabling browsers and other software to interpret and display web pages correctly. Apart from HTML, other markup languages include XML (eXtensible Markup Language) and Markdown, each serving specific purposes in various domains. 
+In essence, while wireframes help in visualizing the layout and structure of a digital product, markup languages like HTML aid in defining and structuring the content and elements within the digital product. Both wireframes and markup play critical roles in the design and development process, ensuring effective communication, planning, and implementation of digital products.
+ 
+What Is ECMA? 
+ECMA (European Computer Manufacturers Association) is an international standards organization that is responsible for standardizing information and communication systems. It was founded in 1961 and is based in Geneva, Switzerland. Initially, ECMA was known for its standardization of computer systems and hardware, but it later expanded its scope to include software and other communication technologies. 
+One of the most notable contributions of ECMA is the standardization of the ECMAScript programming language, which is the basis for several scripting languages, with JavaScript being the most popular implementation. The ECMAScript standard specifies the scripting language that forms the basis of JavaScript, defining the core features and syntax that JavaScript implementations must follow. 
+The standardization of ECMAScript ensures interoperability and consistency among different implementations of the language across various platforms and environments. This allows developers to write JavaScript code that can run on different web browsers and devices without encountering compatibility issues. 
+Furthermore, ECMA also works on standardizing other technologies such as optical discs, computer interfaces, and telecommunications. It collaborates with other international standards organizations, including the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), to ensure that its standards are globally recognized and adopted. 
+By establishing and promoting these standards, ECMA facilitates innovation, interoperability, and compatibility within the technology industry, enabling the development of products and services that adhere to internationally recognized specifications and guidelines. 
+
+
+6 Best Website Designs 2023: 
+Helixes
+FPP
+ Finprint
+Beauvoir
+Ufomammoot
+Nest Wifi
+
+Difference between Programming language and Scripting
+Programming Language
+A programming language is a computer language that is used to communicate with computers using a set of instructions.
+It is compiled language or compiler-based language.
+It is used to develop an application or software from scratch.
+It runs or executes independently and does not depend on the parent (exterior) program.
+It uses a compiler to convert source code into machine code.
+As it uses a compiler, hence the complete program is converted into machine code in one shot.
+These languages are required to be compiled.
+It is comparatively difficult to write code in a programming language, and it requires numerous lines of code for each task.
+The development time in programming languages is high as more lines are required.
+There is the high maintenance cost.
+All programming languages are not scripting languages
+It generates a .exe file.
+Usually, programming languages do not support or provide very little support for user interface designing, data types, and graphic designing.
+Some popular examples are C, C++, Java, Scala, COBOL, etc.
+Scripting Language
+A scripting language is a type of programming language designed for a runtime system to automate the execution of tasks.
+It is interpreted language or interpreter-based language
+It is used to combine existing components and automate a specific task.
+It runs or executes inside another program.
+It uses an interpreter to convert source code into machine code.
+As it uses an interpreter, hence the program is converted into machine code line by line.
+There is no need for compilation.
+It is comparatively easy to write code in the scripting language, and it requires few lines of code for each task.
+The development time in a scripting language as a smaller number of lines are required.
+There is less maintenance cost.
+All scripting languages are programming languages
+It does not create a .exe file.
+Scripting languages provide great support to user interface design, data types, and graphic design.
+Some popular examples are Perl, Python, JavaScript, etc.
+
+
+
+
+
